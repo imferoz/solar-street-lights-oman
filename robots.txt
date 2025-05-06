@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solar-street-lights-oman.alwejhagroup.com/sitemap.xml
