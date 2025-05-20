@@ -1,4 +1,5 @@
 User-agent: *
-Allow: /
-
+Disallow: /cdn-cgi/
+Allow: /solar-lighting/
+Allow: /projects/
 Sitemap: https://solar-street-lights-oman.alwejhagroup.com/sitemap.xml
